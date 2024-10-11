@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Trang]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image]()
 
 ## About Me 🚀
 
@@ -9,7 +9,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
+- 📫 How to reach me: **[phuongtrang2652004@gmail.com]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
