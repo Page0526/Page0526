@@ -1,6 +1,6 @@
 # Hi there, I'm [Trang]! 👋
 
-![Banner Image](Page0526/Page0526/Images/tulips.jpg)
+![Banner Image](/Images/tulips.jpg)
 
 ## About Me 🚀
 
@@ -26,15 +26,15 @@ I'm just an ordinary person with passionate in **[Artificial Intelligence]**. I 
 
 ### [Diffusion](https://github.com/Page0526/diffusion_model)
 
-<!-- ![Project 1 Screenshot](Page0526/Page0526/diffusion_model.avif) -->
+![Project 1 Screenshot](/diffusion_model.avif)
 
-**[Diffusion Model]** is a **[composite]** built with **[Pytorch]**. This project is where I learn to understand types of diffusion models from scratch. You can check out the repository [here](https://github.com/Page0526/diffusion_model).
+**Diffusion Model** is a **composite** built with **Pytorch**. This project is where I learn to understand types of diffusion models from scratch. You can check out the repository [here](https://github.com/Page0526/diffusion_model).
 
 ### [Word Search AI](https://github.com/Page0526/word-search-AI)
 
-<!-- ![Project 2 Screenshot](Page0526/Page0526/word_search.png) -->
+<img src="/word_search.png" alt="Project 2 Screenshot" width="600" height="400">
 
-**[Word Search AI]** is a **[simple]** built with **[Django]**. You can check out the repository [here](https://github.com/Page0526/word-search-AI).
+**Word Search AI** is a **simple** built with **Django**. You can check out the repository [here](https://github.com/Page0526/word-search-AI).
 
 <!--
 ## Get in Touch 📬
