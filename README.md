@@ -1,16 +1,16 @@
-# Hi there, I'm [Trang]! 👋
+# Hi there, I'm Trang! 👋
 
 ![Banner Image](/Images/tulips.jpg)
 
 ## About Me 🚀
 
-I'm just an ordinary person with passionate in **[Artificial Intelligence]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm just an ordinary person with passionate in **Artificial Intelligence**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Deep Learning (Computer Vision)]**
-- 🔭 Working on: **[Diffusion]**
-- 🌍 Languages: **[Python and Vietnamese]**
-- 📫 How to reach me: **[phuongtrang2652004@gmail.com]**
-- ⚡ Fun fact: **[eager to learn new things]**
+- 🌱 Currently learning: **Deep Learning (Computer Vision)**
+- 🔭 Working on: **Diffusion**
+- 🌍 Languages: **Python and Vietnamese**
+- 📫 How to reach me: **phuongtrang2652004@gmail.com**
+- ⚡ Fun fact: **eager to learn new things**
 
 ## My Skills 🧠
 
