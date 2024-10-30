@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Page0526)](https://github.com/Page0526/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Page0526&show_icons=true&theme=ambient_gradient)
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Page0526&langs_count=8&theme=vue&layout=compact)]()
 <!--
 **bluestyle97/bluestyle97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
