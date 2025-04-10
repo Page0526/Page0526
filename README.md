@@ -1,5 +1,5 @@
 ### Hi there 👋
-Contact with me through [my email](phuongtrang2652004@gmail.com) (checking everyday). Hope you have a good day!
+Contact with me through [my email](mailto:phuongtrang2652004@gmail.com) (checking everyday). Hope you have a good day!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Page0526&show_icons=true&theme=ambient_gradient)
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Page0526&langs_count=8&theme=ambient_gradient&layout=compact)]()
