@@ -1,8 +1,7 @@
 ### Hi there 👋
 Contact with me through [my email](mailto:phuongtrang2652004@gmail.com) (checking everyday). Hope you have a good day!
 
-![Page0526's GitHub stats](https://github-readme-stats.vercel.app/api?username=Page0526&hide=contribs,prs)
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Page0526&langs_count=8&theme=ambient_gradient&layout=compact)]()
+
 <!--
 **bluestyle97/bluestyle97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
